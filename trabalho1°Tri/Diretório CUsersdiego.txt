@@ -1,0 +1,7 @@
+    Diretório: C:\Users\diego
+
+
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        11/09/2026     22:46              0 .gitignore
+.vs/
